@@ -1,114 +1,120 @@
-SparkEV Business Analytics Project
-Overview
+# SparkEV Business Analytics Project
+
+## Overview
 This project provides comprehensive business analytics for SparkEV, an emerging electric vehicle manufacturer. The analysis covers operational performance, financial metrics, and market trends from 2019-2023, with forecasting through 2025.
-Project Structure
 
-Executive Summary
-Business Overview
-Detailed Analytics:
+---
 
-Overall Performance Analytics
-Financial Analytics
-Operational Analytics
-2-Year Forecasts
+## Project Structure
 
+1. **Executive Summary**
+2. **Business Overview**
+3. **Detailed Analytics**:
+   - Overall Performance Analytics
+   - Financial Analytics
+   - Operational Analytics
+   - 2-Year Forecasts
+4. **Criticisms and Recommendations**
+5. **Ethical Considerations**
+6. **References**
+7. **Appendix with Visualizations**
 
-Criticisms and Recommendations
-Ethical Considerations
-References
-Appendix with Visualizations
+---
 
-Key Features
+## Key Features
 
-Data cleaning and preparation using Table Prep Builder
-Interactive Tableau dashboards for visualization
-Comprehensive financial analysis across regions
-Detailed operational metrics and KPIs
-Market trend analysis and forecasting
-Strategic recommendations
+- **Data Cleaning and Preparation**: Utilizing Table Prep Builder.
+- **Interactive Dashboards**: Created with Tableau for data visualization.
+- **Financial Analysis**: Comprehensive insights across regions.
+- **Operational Metrics and KPIs**: Detailed evaluation.
+- **Market Trend Analysis and Forecasting**: Based on historical data and trends.
+- **Strategic Recommendations**: For business growth and optimization.
 
-Key Findings
+---
 
-Regional Performance:
+## Key Findings
 
-North America leads with $11.97M in cumulative revenue
-Indonesia dominated Asian market from 2020-2023
-Europe shows steady but lower performance
+### Regional Performance:
+- North America leads with **$11.97M** in cumulative revenue.
+- Indonesia dominated the Asian market from 2020-2023.
+- Europe shows steady but lower performance compared to other regions.
 
+### Product Analysis:
+- Hatchbacks account for **55% of sales** but have the lowest profit margins.
+- SUV models demonstrate the highest profit potential.
+- Model performance varies significantly across regions.
 
-Product Analysis:
+### Financial Metrics:
+- Sales declined from **$29.08M (2020)** to a projected **$14.77M (2025)**.
+- Contribution margin decreased from **$12.20M** to **$5.55M**.
+- Cost optimization achieved, reducing costs from **$16.94M** to **$13.15M**.
 
-Hatchbacks comprise 55% of sales but have lowest profit margins
-SUV models show highest profit potential
-Model performance varies significantly by region
+---
 
+## Technologies Used
 
-Financial Metrics:
+- **Tableau Prep Builder**: For data cleaning and preparation.
+- **Tableau**: For interactive data visualization.
+- **Adobe Express**: For infographic creation.
+- **Excel**: For in-depth data analysis.
 
-Sales decline from $29.08M (2020) to projected $14.77M (2025)
-Contribution margin decreased from $12.20M to $5.55M
-Cost optimization achieved, reducing from $16.94M to $13.15M
+---
 
+## Recommendations
 
+### Product Portfolio:
+- Diversify beyond hatchback dominance.
+- Increase focus on high-margin SUV models.
+- Develop region-specific product strategies.
 
-Technologies Used
+### Market Strategy:
+- Expand into untapped markets.
+- Implement robust demand forecasting.
+- Develop strategic partnerships.
 
-Tableau Prep Builder for data cleaning
-Tableau for data visualization
-Adobe Express for infographic creation
-Excel for data analysis
+### Operational Improvements:
+- Optimize inventory management.
+- Enhance production efficiency.
+- Strengthen data analytics capabilities.
 
-Recommendations
+---
 
-Product Portfolio:
+## Data Sources
 
-Diversify beyond hatchback dominance
-Increase focus on high-margin SUV models
-Develop region-specific product strategies
+- SparkEV 2019-2023 Dataset
+- Market analysis reports
+- Industry trend data
+- Regional sales data
 
+---
 
-Market Strategy:
+## Future Scope
 
-Expand into untapped markets
-Implement robust demand forecasting
-Develop strategic partnerships
+- Real-time analytics integration
+- Advanced predictive modeling
+- Customer behavior analysis
+- Supply chain optimization
 
+---
 
-Operational Improvements:
+## Contributors
 
-Optimize inventory management
-Enhance production efficiency
-Strengthen data analytics capabilities
+- **Henry Nguyen**
+- Additional stakeholders and analysts
 
+---
 
-
-Data Sources
-
-SparkEV 2019-2023 Dataset
-Market analysis reports
-Industry trend data
-Regional sales data
-
-Future Scope
-
-Real-time analytics integration
-Advanced predictive modeling
-Customer behavior analysis
-Supply chain optimization
-
-Contributors
-
-Henry Nguyen
-Additional stakeholders and analysts
-
-Usage
+## Usage
 This analysis serves as a strategic guide for:
 
-Executive decision-making
-Market expansion planning
-Product development strategy
-Operational optimization
-Risk management
+- Executive decision-making
+- Market expansion planning
+- Product development strategy
+- Operational optimization
+- Risk management
 
-Contact Information
+---
+
+## Contact Information
 Henry Nguyen
+
