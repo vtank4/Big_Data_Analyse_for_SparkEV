@@ -100,7 +100,6 @@ This project provides comprehensive business analytics for SparkEV, an emerging 
 ## Contributors
 
 - **Henry Nguyen**
-- Additional stakeholders and analysts
 
 ---
 
